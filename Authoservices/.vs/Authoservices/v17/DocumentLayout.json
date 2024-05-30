@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowserviceclient.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowserviceclient.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowserviceclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowserviceclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\addclientservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\addclientservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowactivetedadmin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowactivetedadmin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windoweditservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windoweditservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowaddservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowaddservice.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\desktop\\\u0440\u0430\u0431\u043E\u0442\u0430 3\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\progs\\authoservices\\authoservices\\pages\\windoweditservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windoweditservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowaddservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowaddservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\addclientservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\addclientservice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\authoservices\\pages\\windowactivetedadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F35400-A47E-4B57-9659-C0A4D7BF5735}|Authoservices\\Authoservices.csproj|solutionrelative:authoservices\\pages\\windowactivetedadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\MainWindow.xaml",
+              "RelativeToolTip": "Authoservices\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:20.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Authoservices\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAYwL0AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:20.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowAddService.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowAddService.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowAddService.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowAddService.xaml",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowAddService.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:20.833Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowAddService.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowAddService.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowAddService.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowAddService.xaml.cs",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowAddService.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwB8AAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:20.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowEditService.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowEditService.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowEditService.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowEditService.xaml",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowEditService.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:29.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowEditService.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowEditService.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowEditService.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowEditService.xaml.cs",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowEditService.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwD0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:29.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowActivetedAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowActivetedAdmin.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowActivetedAdmin.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowActivetedAdmin.xaml",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowActivetedAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:29.561Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowActivetedAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowActivetedAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowActivetedAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowActivetedAdmin.xaml.cs",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowActivetedAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:29.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddClientService.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\AddClientService.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\AddClientService.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\AddClientService.xaml",
+              "RelativeToolTip": "Authoservices\\Pages\\AddClientService.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:29.567Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClientService.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\AddClientService.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\AddClientService.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\AddClientService.xaml.cs",
+              "RelativeToolTip": "Authoservices\\Pages\\AddClientService.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:29.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowServiceClient.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowServiceClient.xaml",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowServiceClient.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowServiceClient.xaml",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowServiceClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T11:16:29.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowServiceClient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowServiceClient.xaml.cs",
+              "RelativeDocumentMoniker": "Authoservices\\Pages\\WindowServiceClient.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u0430 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435\\Progs\\Authoservices\\Authoservices\\Pages\\WindowServiceClient.xaml.cs",
+              "RelativeToolTip": "Authoservices\\Pages\\WindowServiceClient.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:16:29.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

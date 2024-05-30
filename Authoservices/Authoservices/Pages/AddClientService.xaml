@@ -1,0 +1,51 @@
+﻿<Window x:Class="Authoservices.Pages.AddClientService"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Authoservices.Pages"
+        mc:Ignorable="d" Icon="res/service_logo.ico"
+        Title="Компания Дырявое Ведро - окно записи клиента на услугу" Height="400" Width="400" 
+ FontFamily="Tw Cen MT" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <StackPanel>
+                <TextBlock Text="Фамилия клиента" Margin="10 5 0 0" FontSize="15"/>
+                <ComboBox x:Name="cbFirstNameClient" Margin="10 5 10 0" Height="25"
+                   Text="{Binding Client.FirstName}"/>
+
+                <TextBlock Text="Услуга" Margin="10 10 0 0" FontSize="15"/>
+                <ComboBox x:Name="cbServiceName" Margin="10 5 10 0" Height="25"
+                   Text="{Binding Service.Title}"/>
+
+                <TextBlock Text="Дата для оказания услуги" Margin="10 10 0 0" FontSize="15"/>
+                <DatePicker x:Name="dpDateStart" Margin="10 5 10 0" Height="25"
+                     Text="{Binding StartTime}"/>
+
+                <TextBlock Text="Время для оказания услуги" Margin="10 10 0 0" FontSize="15"/>
+                <TextBox x:Name="tbTimeStart" Margin="10 5 10 0" Height="25" 
+                  ToolTip="Пример: 13:00"/>
+
+                <TextBlock Text="Комментарий к заказу" Margin="10 10 0 0" FontSize="15"/>
+                <TextBox x:Name="tbComment" Margin="10 5 10 0" Height="40"
+                  Text="{Binding Comment}"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="AddForBaseServiceClient" Width="180" Height="30" Margin="5 0 10 0"
+     Content="Добавление" FontSize="15" Click="AddForBaseServiceClientClick"
+                        Background="#FFFFFFE1"/>
+
+                <Button x:Name="Exit" Width="180" Height="30" Margin="0 0 0 0"
+     Content="Отмена" FontSize="15" Click="ExitClick" Background="#FFFFFFE1"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\ForPhoto.exe.config
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\ForPhoto.exe
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\ForPhoto.pdb
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\EntityFramework.dll
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\EntityFramework.SqlServer.dll
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\EntityFramework.xml
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\EntityFramework.SqlServer.xml
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\bin\Debug\ru\EntityFramework.resources.dll
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\obj\Debug\ForPhoto.csproj.AssemblyReference.cache
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\obj\Debug\ForPhoto.csproj.CoreCompileInputs.cache
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\obj\Debug\ForPhoto.csproj.CopyComplete
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\obj\Debug\ForPhoto.exe
+H:\Рабочий стол\Работа 3\Задание\Progs\ForPhoto\ForPhoto\obj\Debug\ForPhoto.pdb

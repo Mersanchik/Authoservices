@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForPhoto", "ForPhoto\ForPhoto.csproj", "{E20E1100-60FF-4810-994B-F3632A7DA6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20E1100-60FF-4810-994B-F3632A7DA6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20E1100-60FF-4810-994B-F3632A7DA6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20E1100-60FF-4810-994B-F3632A7DA6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20E1100-60FF-4810-994B-F3632A7DA6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45566295-E3A0-4DB9-BD5E-446CE4406121}
+	EndGlobalSection
+EndGlobal
